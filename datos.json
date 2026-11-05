@@ -18,6 +18,12 @@
         "url": "https://himnario-cristiano.github.io/cantosespirituales/"
     },
     {
+        "titulo": "Canto De Los Santos",
+        "descripcion": "Coleccion de 12 himnos contemporaneo.",
+        "imagen": "https://i.postimg.cc/g0RdwmDB/cantosdelossantos-libro.gif",
+        "url": "https://himnario-cristiano.github.io/cantodelossantos/"
+    },
+    {
         "titulo": "El Me Liberó",
         "descripcion": "Coleccion de 13 himnos contemporaneo.",
         "imagen": "https://i.postimg.cc/D0T3fW9R/el-me-libero-libro.gif",
@@ -63,12 +69,6 @@
         "titulo": "Union C",
         "descripcion": "Coleccion de 12 himnos contemporaneo.",
         "imagen": "https://i.postimg.cc/d0MtYHZq/Union-C-libro.gif",
-        "url": "https://himnario-cristiano.github.io/unionc/"
-    },
-    {
-        "titulo": "Dios Es Mi Roca",
-        "descripcion": "Coleccion de 12 himnos contemporaneo.",
-        "imagen": "https://i.postimg.cc/QxjzsTfv/Diosesmiroca-cd-libro.gif",
         "url": "https://himnario-cristiano.github.io/unionc/"
     }
 ]
