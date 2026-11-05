@@ -48,6 +48,12 @@
         "url": "https://himnario-cristiano.github.io/cantayalegrate/"
     },
     {
+        "titulo": "Tu Gracia Me Alcanzo",
+        "descripcion": "Coleccion de 9 himnos contemporaneo.",
+        "imagen": "https://i.postimg.cc/NMHkRrXk/tugraciamealcanzo-cd-libro.gif",
+        "url": "https://himnario-cristiano.github.io/tugraciamealcanzo/"
+    },
+    {
         "titulo": "A Solas Con Jesùs",
         "descripcion": "Coleccion de 14 himnos contemporaneo.",
         "imagen": "https://i.postimg.cc/J43VxjW1/asolasconjesus-libro.gif",
@@ -57,6 +63,12 @@
         "titulo": "Union C",
         "descripcion": "Coleccion de 12 himnos contemporaneo.",
         "imagen": "https://i.postimg.cc/d0MtYHZq/Union-C-libro.gif",
+        "url": "https://himnario-cristiano.github.io/unionc/"
+    },
+    {
+        "titulo": "Dios Es Mi Roca",
+        "descripcion": "Coleccion de 12 himnos contemporaneo.",
+        "imagen": "https://i.postimg.cc/QxjzsTfv/Diosesmiroca-cd-libro.gif",
         "url": "https://himnario-cristiano.github.io/unionc/"
     }
 ]
