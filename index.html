@@ -15,7 +15,7 @@
     <style>
         :root {
             /* Paleta Windows 11 Dark Mode */
-            --bg-body: #1c1c1c;
+            --bg-body: #0f172a;
             --bg-card: rgba(255, 255, 255, 0.04);
             --bg-card-hover: rgba(255, 255, 255, 0.08);
             --border-card: rgba(255, 255, 255, 0.06);
@@ -127,7 +127,10 @@
             background-color: rgba(255, 255, 255, 0.08);
             border-bottom-color: var(--accent);
         }
-
+        .custom-select option {
+            background-color: var(--bg-body);
+            color: var(--text-main);
+        }
         /* Botón de Limpiar Datos / Recargar */
         .icon-btn {
             background-color: rgba(255, 255, 255, 0.05);
