@@ -25,8 +25,8 @@
             --accent: #60cdff; /* Color de acento de Windows 11 */
             --accent-hover: #4fbce3;
             --sidebar-min-width: 320px;
-            --sidebar-default-width: 450px;
-            --sidebar-max-width: 60vw;
+            --sidebar-default-width: 650px; /* Cambiado de 450px a 650px (o el valor que prefieras) */
+            --sidebar-max-width: 80vw;   /* Cambiado de 60vw a 80vw para permitir mayor extensión */
         }
 
         * {
@@ -709,12 +709,12 @@
             playerFrame.style.pointerEvents = 'none';
         });
 
-        document.addEventListener('mousemove', (e) => {
+       document.addEventListener('mousemove', (e) => {
             if (!isResizing) return;
             let newWidth = window.innerWidth - e.clientX;
             
             const minWidth = 320;
-            const maxWidth = window.innerWidth * 0.6;
+            const maxWidth = window.innerWidth * 0.8; // Cambiado de 0.6 a 0.8 (80% del ancho de pantalla)
             
             if (newWidth < minWidth) newWidth = minWidth;
             if (newWidth > maxWidth) newWidth = maxWidth;
